@@ -8,7 +8,8 @@ A secure banking system (SBS) is a software system developed primarily to facili
 
 Application Overview
 
-    This report documents our work for the 50.531 Secure Software Engineering final project. In this project, we were distributed a running but incomplete web application for a bank - bankwebapp. This project is coded in java, using the IntelliJ environment on the Apache Tomcat 8.0 server as localhost. The distributed project allows users to register accounts and login. Additionally, there is a default username, staff_1 with administrative privileges. The key objectives for this project are
+
+This report documents our work for the 50.531 Secure Software Engineering final project. In this project, we were distributed a running but incomplete web application for a bank - bankwebapp. This project is coded in java, using the IntelliJ environment on the Apache Tomcat 8.0 server as localhost. The distributed project allows users to register accounts and login. Additionally, there is a default username, staff_1 with administrative privileges. The key objectives for this project are
 
 Completion of the functionalities including transactions and batch transactions
 Implementation of security features
